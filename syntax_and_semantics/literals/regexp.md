@@ -1,4 +1,4 @@
-# Regex
+# Regexp
 
 Regular expressions are represented by the regexp literal:
 
