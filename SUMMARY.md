@@ -10,6 +10,7 @@
        * [Regex](syntax_and_semantics/literals/regex.md)
        * [Int](syntax_and_semantics/literals/int.md)
        * [Float](syntax_and_semantics/literals/float.md)
+   * Generics
 * [Conventions](conventions/README.md)
    * [Coding Style](conventions/coding_style.md)
 
