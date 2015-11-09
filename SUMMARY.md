@@ -4,5 +4,5 @@
 * [Syntax and Semantics](syntax_and_semantics/README.md)
    * [Comments](syntax_and_semantics/comments.md)
    * [Literals](syntax_and_semantics/literals/README.md)
-       * Null
+       * [Null](syntax_and_semantics/literals/null.md)
 
