@@ -9,5 +9,5 @@
        * [Table](syntax_and_semantics/literals/table.md)
        * [Regex](syntax_and_semantics/literals/regex.md)
        * [Int](syntax_and_semantics/literals/int.md)
-       * Float
+       * [Float](syntax_and_semantics/literals/float.md)
 
