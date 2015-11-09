@@ -24,8 +24,10 @@ A backslash can be used to denote some characters inside the string:
 A string can span multiple lines with triple quote (`###`) syntax:
 
 ```ruby
-"""hello
-      world" # same as "hello\n      world"""
+"""
+hello
+world"
+""" # same as "\nhello\nworld\n
 ```
 
 Note that in the above example trailing and leading spaces, as well as newlines,
