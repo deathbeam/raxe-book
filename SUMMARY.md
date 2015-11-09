@@ -8,7 +8,7 @@
        * [Float](syntax_and_semantics/literals/float.md)
        * [String](syntax_and_semantics/literals/string.md)
        * [Table](syntax_and_semantics/literals/table.md)
-       * [Regex](syntax_and_semantics/literals/regex.md)
+       * [Regexp](syntax_and_semantics/literals/regex.md)
        * [Null](syntax_and_semantics/literals/null.md)
    * [Generics](syntax_and_semantics/generics.md)
 * [Conventions](conventions/README.md)
