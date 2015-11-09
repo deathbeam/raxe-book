@@ -7,5 +7,5 @@
        * [Null](syntax_and_semantics/literals/null.md)
        * [String](syntax_and_semantics/literals/string.md)
        * [Table](syntax_and_semantics/literals/table.md)
-       * Regex
+       * [Regex](syntax_and_semantics/literals/regex.md)
 
