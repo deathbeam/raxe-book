@@ -6,5 +6,5 @@
    * [Literals](syntax_and_semantics/literals/README.md)
        * [Null](syntax_and_semantics/literals/null.md)
        * [String](syntax_and_semantics/literals/string.md)
-       * Table
+       * [Table](syntax_and_semantics/literals/table.md)
 
