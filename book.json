@@ -8,7 +8,7 @@
             "url": "https://github.com/nondev/raxe"
         },
         "edit-link": {
-            "base": "https://github.com/nondev/raxe/edit/master",
+            "base": "https://github.com/nondev/raxe/edit/master/",
             "label": "Edit This Page"
         }
     }
