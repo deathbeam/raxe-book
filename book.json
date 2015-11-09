@@ -1,10 +1,15 @@
 {
     "plugins": [
-        "github"
+        "github",
+        "edit-link"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/nondev/raxe"
+        },
+        "edit-link": {
+            "base": "https://github.com/nondev/raxe/edit/master",
+            "label": "Edit This Page"
         }
     }
 }
