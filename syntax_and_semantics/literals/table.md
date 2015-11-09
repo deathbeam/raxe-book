@@ -5,7 +5,7 @@ A representing a mapping of keys of a type `K` to values of a type `V` or indexe
 ## As maps
 
 ```lua
-{["a"] = 2, ["b"] = 3} # Map[String, Int)]
+{["a"] = 2, ["b"] = 3} # Map[String, Int]
 ```
 
 Usage
