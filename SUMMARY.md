@@ -12,4 +12,5 @@
        * [Float](syntax_and_semantics/literals/float.md)
 * [Conventions](conventions/README.md)
    * [Coding Style](conventions/coding_style.md)
+   * Documenting code
 
