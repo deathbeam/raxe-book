@@ -26,7 +26,7 @@ A string can span multiple lines with triple quote (`###`) syntax:
 ```ruby
 """
 hello
-world"
+world
 """ # same as "\nhello\nworld\n
 ```
 
