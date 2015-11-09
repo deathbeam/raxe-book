@@ -24,13 +24,13 @@ __Method names__ are camelCased. For example:
 
 ```ruby
 class Person
-  def firstName
+  def firstName()
   end
 
-  def dateOfBirth
+  def dateOfBirth()
   end
 
-  def homepageUrl
+  def homepageUrl()
   end
 end
 ```
