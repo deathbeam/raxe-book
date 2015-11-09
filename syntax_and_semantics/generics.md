@@ -1,6 +1,6 @@
 # Generics
 
-You can make a class generic based on one or more type variables. For example:
+You can make a class generic based on type variables. For example:
 
 ```ruby
 class MyBox[T]
@@ -43,7 +43,7 @@ Generic classes and structs can be inherited. When inheriting you can specify an
 class Parent[T]
 end
 
-class IntChild < Parent[Int32]
+class IntChild < Parent[Int]
 end
 
 class GenericChild[T] < Parent[T]
