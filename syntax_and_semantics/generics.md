@@ -1,6 +1,6 @@
 # Generics
 
-You can make a class generic based on type variables. For example:
+You can make a type generic based on type variables. For example:
 
 ```ruby
 class MyBox[T]
