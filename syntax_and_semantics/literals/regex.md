@@ -1,6 +1,6 @@
 # Regex
 
-Regular expressions are represented by the regex literal:
+Regular expressions are represented by the regexp literal:
 
 ```ruby
 def foo_or_bar = ~/foo|bar/
