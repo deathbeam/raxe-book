@@ -32,37 +32,10 @@ Note that in the above example trailing and leading spaces, as well as newlines,
 end up in the resulting string. To avoid this, you can split a string into multiple lines
 by joining multiple literals with a plus:
 
-```crystal
+```ruby
 "hello " +
 "world, " +
 "no newlines" # same as "hello world, no newlines"
-```
-
-Alternatively, a backlash followed by a newline can be inserted inside the string literal:
-
-```crystal
-"hello \
-     world, \
-     no newlines" # same as "hello world, no newlines"
-```
-
-In this case, leading whitespace is not included in the resulting string.
-
-If you need to write a string that has many double quotes, parenthesis, or similar
-characters, you can use alternative literals:
-
-```crystal
-# Supports double quotes and nested parenthesis
-%(hello ("world")) # same as "hello (\"world\")"
-
-# Supports double quotes and nested brackets
-%[hello ["world"]] # same as "hello [\"world\"]"
-
-# Supports double quotes and nested curlies
-%{hello {"world"}} # same as "hello {\"world\"}"
-
-# Supports double quotes and nested angles
-%<hello <"world">> # same as "hello <\"world\">"
 ```
 
 ## Interpolation
