@@ -8,4 +8,5 @@
        * [String](syntax_and_semantics/literals/string.md)
        * [Table](syntax_and_semantics/literals/table.md)
        * [Regex](syntax_and_semantics/literals/regex.md)
+       * Int
 
