@@ -108,7 +108,7 @@ class Money
   def new(currency, value)
   end
   
-  def amount
+  def amount()
     # implement conversion ...
   end
 end
