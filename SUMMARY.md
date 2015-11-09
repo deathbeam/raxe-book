@@ -10,5 +10,5 @@
        * [Regex](syntax_and_semantics/literals/regex.md)
        * [Int](syntax_and_semantics/literals/int.md)
        * [Float](syntax_and_semantics/literals/float.md)
-* Conventions
+* [Conventions](conventions/README.md)
 
