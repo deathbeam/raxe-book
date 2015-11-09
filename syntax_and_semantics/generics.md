@@ -27,7 +27,7 @@ The above now works, because `MyBox` is now not a single type, but a family of t
 
 Type restrictions in a generic type's constructor are free variables when type arguments were not specified, and then are used to infer them. For example:
 
-```crystal
+```ruby
 new MyBox(1)       # MyBox[Int]
 new MyBox("hello") # MyBox[String]
 ```
