@@ -3,7 +3,7 @@
 You can make a class generic based on one or more type variables. For example:
 
 ```ruby
-class MyBox
+class MyBox[T]
   def value : T
   
   def new(value : T)
